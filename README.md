@@ -10,3 +10,6 @@ Community-driven platform allowing users to share their own discoveries and reco
 
 ### Purpose:
 The purpose of the "Hidden Gems of Ontario" project is to promote tourism and exploration beyond the popular tourist attractions in Ontario. By highlighting these hidden gems, the project aims to encourage travelers to venture off the beaten path, support local businesses, and experience the diverse and unique offerings that Ontario has to offer.
+
+### Presentation
+Click the [link](https://youtu.be/nNBFtiNNb4s) to watch the video presentation of the project.
